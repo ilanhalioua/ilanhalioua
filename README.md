@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ilanhalioua, a student in UC3M, studying Applied Mathematics and Computing.
+- 👋 Hi, I’m @ilanhalioua, a student in UC3M, studying Applied Mathematics and Computing (Exchange student @Purdue).
 - 👀 I’m interested in Artificial Intelligence (Machine Learning, Neural Networks, ...) as well as Mathematical Modelling and Analysis.
-- 🌱 I’m currently learning Theory of Automata and Formal Languages, Cryptography, Numerical Calculus, Computer Structure and Integration and Measure.
+- 🌱 I’m currently learning Financial Mathematics, Operations Research Optimization and Stochastic Processes, Applied Functional Analysis and Partial Differential Equations.
 - 📫 How to reach me: haliouailan@gmail.com
 
 <!---
